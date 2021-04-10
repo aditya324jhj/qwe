@@ -1,0 +1,69 @@
+#adi{
+   text-align: center;
+}
+#adie{
+    text-align: center;
+}
+.details {
+    height: 200px;
+    background: #aaa;
+float: right;
+}
+#map{
+    float: left;
+}
+html{
+    scroll-behavior: smooth;
+}
+.m_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.m_head i {
+    float: right;
+
+}
+
+.m_text span {
+    color: #ff7700;
+}
+.row::after
+{
+  content: """;
+      clear:both;
+    display: table;
+    
+    
+    
+}
+.travel_maindiv{
+    float: left;
+    width:33.33%;
+    padding:5px;
+    border: 1px solid #c7c7c7; 
+}
+.travel_maindiv img{
+    width: 100%;
+    height: 300 px;
+        
+    
+}
+.travel_maindiv hr{
+    width: 100%;
+   
+        
+    
+}
+.travel_maindiv h5 , travel_maindiv p {
+ margin-left: 20px;
+    
+}
+#c1{
+    float: right
+    
+}
